@@ -1,11 +1,11 @@
-[![Build Status](https://travis-ci.org/freeotp/freeotp-android.svg?branch=master)](https://travis-ci.org/freeotp/freeotp-android)
+[![Build Status](https://travis-ci.org/freeotp/freeotp-android.svg?branch=master)](https://travis-ci.org/freeotp/freeotp-android) (link currently points to FreeOTP)
 
-# FreeOTP
+# qmdOTP
 
-[FreeOTP](https://freeotp.github.io/) is a two-factor authentication application for systems
+[qmdOTP](https://freeotp.github.io/) (link currently points to FreeOTP) is a two-factor authentication application for systems
 utilizing one-time password protocols. Tokens can be added easily by scanning a QR code.
 
-FreeOTP implements open standards:
+qmdOTP implements open standards:
 
 * HOTP (HMAC-Based One-Time Password Algorithm) [RFC 4226](http://www.ietf.org/rfc/rfc4226.txt)
 * TOTP (Time-Based One-Time Password Algorithm) [RFC 6238](http://www.ietf.org/rfc/rfc6238.txt)
@@ -13,11 +13,13 @@ FreeOTP implements open standards:
 This means that no proprietary server-side component is necessary: use any server-side component
 that implements these standards.
 
-## Download FreeOTP for Android
+qmdOTP is a fork of FreeOTP, with the aim of updating the UI to material design.
+
+## Download qmdOTP for Android
 
 * [Google
-Play](https://play.google.com/store/apps/details?id=org.fedorahosted.freeotp)
-* [F-Droid](https://f-droid.org/packages/org.fedorahosted.freeotp/)
+Play](https://play.google.com/store/apps/details?id=org.fedorahosted.freeotp) (link currently points to FreeOTP)
+* [F-Droid](https://f-droid.org/packages/org.fedorahosted.freeotp/) (link currently points to FreeOTP)
 
 ## Contributing
 
